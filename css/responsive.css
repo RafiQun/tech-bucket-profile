@@ -1,0 +1,178 @@
+
+
+
+@media screen and (max-width: 992px ) {
+
+    /*----------header responsive css here -----*/
+  
+    .header-container .container-description{
+    
+      position: relative;
+      top: 40px; 
+      float: none;
+      width: 100%;
+      text-align: center;
+      overflow: hidden;
+    }
+    .header-container .container-img {
+      float: none;
+      width: 100%;
+      align-items: center;
+      text-align: center;
+      overflow: hidden;
+    }
+  
+  
+  
+      /*----------more info responsive css here -----*/
+  
+      .more-info-des{
+        float: none;
+        width: 90%;
+        margin: 0 5%;
+        text-align: center;
+      }
+      .more-info-img {
+        display: none;
+      }
+      .more-info-img-after{
+        display: block;
+      }
+  
+   /*--------order now responsive css here -----*/
+  
+  
+   .order-now-des {
+    float: none;
+    width: 90%;
+    margin: 0 10%;
+    overflow: hidden;
+    text-align: center;
+  }
+  .order-now-img{
+    display: none;
+  }
+  .order-now-img-after {
+    display: block;
+  }
+  
+  
+   /*--------Best chef responsive css here -----*/
+   #chef-container .chef-img{
+    float: none;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+  }
+  
+  #chef-container .best-chef-des{
+    float: none;
+    width: 100%;
+    text-align: center;
+  }
+  
+  /*----------delivery heading responsive css here -----*/
+  
+  #delivery-section .delivery-heading h2{
+    font-size: 30.8927px;
+    line-height: 140%;
+    color: #4B4A4A;
+  }
+  
+   /*----------footer responsive css here -----*/
+  
+   .footer-sec-1{
+    width: 45%;
+    padding-left: 5%;
+  }
+  
+  .footer-sec-2{
+    width: 45%;
+    padding-left: 5%;
+  }
+  .footer-sec-3{
+    width: 45%;
+    padding-left: 5%;
+  }
+  
+  .footer-sec-4{
+    width: 45%;
+    padding-left: 5%;
+  }
+  
+  }
+
+
+  /* ------------contact form responsive css------------ */
+
+
+
+@media screen and (max-width: 768px) {
+  .map iframe {
+    display: none;
+  }
+  #contact-form {
+    padding: 0 30px;
+  }
+}
+      /*----------more info responsive css here -----*/
+  
+  @media screen and (max-width: 512px ){
+  
+
+    .header-container .container-description h1{
+      font-size: 40px;
+      padding:20px 0;
+    }
+    /*----------footer responsive css here -----*/
+  
+  #footer-container .footer-sec-1 .logo {
+    text-align: center;
+  }
+  #footer-container .footer-sec-1 .address{
+    padding:0;
+    text-align: center;
+  }
+  .footer-sec-1 .social-icon{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  
+  .footer-sec-1 .social-icon li{
+    padding:0;
+  }
+  
+   .footer-sec-1{
+    width: 80%;
+    margin: 0 auto;
+    padding: 0 20%;
+  }
+  
+  .footer-sec-2{
+    width: 80%;
+    margin: 0 auto;
+    padding: 0 20%;
+  
+  }
+  .footer-sec-3{
+    width: 80%;
+    margin: 0 auto;
+    padding: 0 20%;
+  }
+  
+  .footer-sec-4{
+    width: 80%;
+    margin: 0 auto;
+    padding: 0 20%;
+  }
+      }  
+  
+  
+  
+  
+  
+  
+  
+  
+  
